@@ -1,5 +1,11 @@
 # SVD-Loader for Ghidra
 
+------------------------------------------------------------------------------------------------------------------------------
+
+Fixed version of SVD-Loader to work with Tensilica Xtensa ESP Processors. Updated with [commits](https://github.com/leveldown-security/SVD-Loader-Ghidra/pull/9/commits) by **pavlik**.
+
+------------------------------------------------------------------------------------------------------------------------------
+
 [For more information, read our blog post.](https://leveldown.de/blog/svd-loader/)
 
 ## Installation
